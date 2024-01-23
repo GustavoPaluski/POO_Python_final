@@ -1,0 +1,2 @@
+- Fazer cadastro de alimentos/brinquedos
+- Fazer validações de cpf e try catches
